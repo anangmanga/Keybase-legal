@@ -1,2 +1,0 @@
-# Keybase-legal
-App privacy
